@@ -1,0 +1,52 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-11 11:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cbxrbookingsampleplugin.php:78
+msgid "Custom Column"
+msgstr ""
+
+#: cbxrbookingsampleplugin.php:107
+msgid "Custom Choice"
+msgstr ""
+
+#: cbxrbookingsampleplugin.php:110
+msgid "Select Option"
+msgstr ""
+
+#: cbxrbookingsampleplugin.php:111
+msgid "Option 1"
+msgstr ""
+
+#: cbxrbookingsampleplugin.php:112
+msgid "Option 2"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Booking Sample Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sample plugin with example filter and action for CBX Restaurant Booking"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
